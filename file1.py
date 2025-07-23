@@ -1,1 +1,1 @@
-"new lines from second laptop"
+print("file 1 from repo_new, main branch")
